@@ -1,16 +1,18 @@
-## Hi there 👋
+### Olá, eu sou o Elio Neto! 👋
 
-<!--
-**ElioNeto/ElioNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Engenheiro de Software Sênior na IBM**, focado em Modernização de Aplicações Críticas e Arquitetura Cloud. Atualmente lidero iniciativas de migração de Mainframe para AWS e desenvolvimento de microsserviços.
 
-Here are some ideas to get you started:
+🔭 **No que estou trabalhando:**
+- Modernização do Core Bancário (Itaú) usando **AWS, Terraform e .NET Core**.
+- Estudos avançados em **Database Internals** e **Rust**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Meus Projetos Pessoais:**
+- Desenvolvendo um **Key-Value Store de alta performance** baseado em LSM Trees (Rust).
+
+🛠 **Tech Stack:**
+- **Cloud/Infra:** AWS, Terraform, Serverless.
+- **Backend:** .NET Core (C#), Java, Rust.
+- **Legacy:** Mainframe Migration, COBOL integration.
+- **Mobile/Web:** Angular, Android, Swift.
+
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/elioneto)
