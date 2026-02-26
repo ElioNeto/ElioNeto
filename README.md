@@ -63,6 +63,21 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">🏦 Mainframe to Cloud Migration</h3>
+      <div align="center">
+        <a href="https://github.com/ElioNeto/mainframe-to-cloud-migration" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElioNeto&repo=mainframe-to-cloud-migration&theme=tokyonight" alt="Mainframe Migration" />
+        </a>
+        <p>
+          <strong>AWS • Microservices • Enterprise Architecture</strong><br>
+          Comprehensive documentation of IBM Z Mainframe modernization to cloud-native architecture
+        </p>
+        <a href="https://github.com/ElioNeto/mainframe-to-cloud-migration" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </div>
+    </td>
+    <td width="50%">
       <h3 align="center">🗄️ LSM Key-Value Store</h3>
       <div align="center">
         <a href="https://github.com/ElioNeto/lsm-kv-store" target="_blank">
@@ -77,6 +92,8 @@
         </a>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🚀 Go GraphQL Boilerplate</h3>
       <div align="center">
@@ -92,8 +109,6 @@
         </a>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">☁️ AWS Serverless Template</h3>
       <div align="center">
@@ -105,21 +120,6 @@
           Modular Terraform boilerplate with Lambda, DynamoDB and API Gateway
         </p>
         <a href="https://github.com/ElioNeto/aws-serverless-terraform-template" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎯 C# CRUD Template</h3>
-      <div align="center">
-        <a href="https://github.com/ElioNeto/crud-solid-csharp-template" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElioNeto&repo=crud-solid-csharp-template&theme=tokyonight" alt="C# CRUD" />
-        </a>
-        <p>
-          <strong>C# • Clean Architecture • SOLID</strong><br>
-          CRUD boilerplate implementing SOLID principles and Clean Architecture
-        </p>
-        <a href="https://github.com/ElioNeto/crud-solid-csharp-template" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
         </a>
       </div>
@@ -174,6 +174,51 @@ let current_focus = vec![
 - ✅ Implementation of cloud-native architectures for financial services
 - ✅ Development of reusable infrastructure as code templates
 - ✅ Integration of legacy COBOL systems with modern cloud platforms
+
+---
+
+## 🌟 Showcase: Enterprise Mainframe Modernization
+
+### [📚 Mainframe to Cloud Migration Documentation](https://github.com/ElioNeto/mainframe-to-cloud-migration)
+
+Comprehensive enterprise-grade documentation showcasing my expertise in:
+
+#### 🏗️ **Technical Architecture**
+- **Legacy Systems**: IBM Z Mainframe, CICS TS, COBOL, JCL, VSAM, DB2
+- **Target Platform**: AWS cloud-native microservices architecture
+- **Migration Patterns**: Strangler Fig, Event-Driven, CDC (Change Data Capture)
+- **Data Strategy**: Dual-write, PostgreSQL, MongoDB, S3, Redshift
+
+#### 📊 **Project Metrics**
+- **Scale**: 5M daily transactions, 2,500 peak TPS → 15,000 TPS
+- **Performance**: 850ms avg response → 120ms (86% improvement)
+- **Cost Savings**: $12M/year → $4M/year (67% reduction)
+- **Availability**: 99.95% → 99.99% uptime
+
+#### 📖 **Documentation Highlights**
+- ✅ **20+ Professional Mermaid Diagrams**: Architecture flows, data models, migration strategies
+- ✅ **Complete Migration Guide**: 24-month phased approach with risk mitigation
+- ✅ **Security & Compliance**: PCI-DSS Level 1, SOX, GDPR, ISO 27001
+- ✅ **Disaster Recovery**: Multi-region setup with RPO/RTO targets
+- ✅ **Real Code Examples**: Go, Java, Python microservices implementations
+
+#### 🎯 **Key Technologies Demonstrated**
+```yaml
+Legacy:
+  - IBM Z Mainframe (z/OS 2.5)
+  - CICS TS 6.1 (5M transactions/day)
+  - Enterprise COBOL 6.3 (1.2M LOC)
+  - DB2 12 + VSAM (15 TB data)
+  
+Modern:
+  - AWS (ECS, EKS, Lambda, RDS, S3)
+  - Microservices (Go, Java Spring Boot)
+  - Event Streaming (Apache Kafka)
+  - Infrastructure as Code (Terraform)
+  - Observability (Prometheus, Grafana, ELK, Jaeger)
+```
+
+**[🔗 View Full Documentation →](https://github.com/ElioNeto/mainframe-to-cloud-migration)**
 
 ---
 
@@ -243,6 +288,19 @@ let current_focus = vec![
   - ✅ Implementação de arquiteturas cloud-native para serviços financeiros
   - ✅ Desenvolvimento de templates reutilizáveis de infraestrutura como código
   - ✅ Integração de sistemas legados COBOL com plataformas cloud modernas
+  
+  ## 🌟 Destaque: Modernização Enterprise de Mainframe
+  
+  ### [📚 Documentação de Migração Mainframe para Cloud](https://github.com/ElioNeto/mainframe-to-cloud-migration)
+  
+  Documentação enterprise completa demonstrando expertise em:
+  
+  - **Arquitetura Técnica**: IBM Z Mainframe, CICS, COBOL → AWS Microservices
+  - **Métricas do Projeto**: 5M transações/dia, redução de 67% nos custos, melhoria de 86% na performance
+  - **Documentação**: 20+ diagramas Mermaid profissionais, guias de migração completos
+  - **Segurança**: PCI-DSS, SOX, GDPR, ISO 27001
+  
+  **[🔗 Ver Documentação Completa →](https://github.com/ElioNeto/mainframe-to-cloud-migration)**
   
   </details>
   
