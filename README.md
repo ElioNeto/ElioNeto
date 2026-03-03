@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-🚀 **Software Engineer & Solutions Architect** at **IBM**, specialized in **Cloud-Native Architecture** and **Enterprise System Modernization**  
+🚀 **Software Engineer & Solutions Architect**, specialized in **Cloud-Native Architecture** and **Enterprise System Modernization**  
 💼 **Polyglot Engineer** building **high-performance systems** with **Go**, **Java**, and **Kotlin**  
 🏗️ **Solutions Architect** designing **scalable architectures** for critical banking applications  
 🏦 Leading **Mainframe-to-AWS migration** initiatives for **Itaú's Core Banking** systems  
