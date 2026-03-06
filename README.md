@@ -131,10 +131,10 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🗄️ LSM Key-Value Store</h3>
+      <h3 align="center">🗄️ ApexStore</h3>
       <div align="center">
-        <a href="https://github.com/ElioNeto/lsm-kv-store" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElioNeto&repo=lsm-kv-store&theme=tokyonight" alt="LSM KV Store" />
+        <a href="https://github.com/ElioNeto/ApexStore" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElioNeto&repo=lsm-kv-store&theme=tokyonight" alt="ApexStore" />
         </a>
         <p>
           <strong>Rust • Database Internals • LSM-Tree</strong><br>
