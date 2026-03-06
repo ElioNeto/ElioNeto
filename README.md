@@ -20,7 +20,7 @@
 🚀 **Software Engineer & Solutions Architect**, specialized in **Cloud-Native Architecture** and **Enterprise System Modernization**  
 💼 **Polyglot Engineer** building **high-performance systems** with **Go**, **Java**, and **Kotlin**  
 🏗️ **Solutions Architect** designing **scalable architectures** for critical banking applications  
-🏦 Leading **Mainframe-to-AWS migration** initiatives for **Itaú's Core Banking** systems  
+🏦 Former **Mainframe-to-AWS migration** engineer for **Itaú's Core Banking** systems  
 ☕ Expert in **Java ecosystem** (Spring Boot, Micronaut) and **Kotlin** for JVM applications  
 🦀 Passionate about **Go**, **Rust**, **Database Internals**, and **System Design**  
 📍 Based in **Santa Catarina, Brasil**
@@ -87,7 +87,7 @@
       <h3 align="center">☕ Spring Boot REST API Template</h3>
       <div align="center">
         <a href="https://github.com/ElioNeto/java-spring-rest-api-template" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElioNeto&repo=java-spring-rest-api-template&theme=tokyonight" alt="Spring Boot Template" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElioNeto&repo=java-spring-rest-api-template&theme=tokyonight&cache_seconds=1800" alt="Spring Boot Template" />
         </a>
         <p>
           <strong>Java • Spring Boot • PostgreSQL • SOLID</strong><br>
@@ -102,7 +102,7 @@
       <h3 align="center">🚀 Go GraphQL Boilerplate</h3>
       <div align="center">
         <a href="https://github.com/ElioNeto/go-graphql-api-boilerplate" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElioNeto&repo=go-graphql-api-boilerplate&theme=tokyonight" alt="Go GraphQL" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElioNeto&repo=go-graphql-api-boilerplate&theme=tokyonight&cache_seconds=1800" alt="Go GraphQL" />
         </a>
         <p>
           <strong>Go • GraphQL • gqlgen • SOLID</strong><br>
@@ -119,7 +119,7 @@
       <h3 align="center">🏦 Mainframe to Cloud Migration</h3>
       <div align="center">
         <a href="https://github.com/ElioNeto/mainframe-to-cloud-migration" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElioNeto&repo=mainframe-to-cloud-migration&theme=tokyonight" alt="Mainframe Migration" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElioNeto&repo=mainframe-to-cloud-migration&theme=tokyonight&cache_seconds=1800" alt="Mainframe Migration" />
         </a>
         <p>
           <strong>Go • AWS • Microservices • Architecture</strong><br>
@@ -134,7 +134,7 @@
       <h3 align="center">🗄️ ApexStore</h3>
       <div align="center">
         <a href="https://github.com/ElioNeto/ApexStore" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElioNeto&repo=ApexStore&theme=tokyonight" alt="ApexStore" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElioNeto&repo=ApexStore&theme=tokyonight&cache_seconds=1800" alt="ApexStore" />
         </a>
         <p>
           <strong>Rust • Database Internals • LSM-Tree</strong><br>
@@ -364,8 +364,8 @@ func (s *TransactionService) ProcessBatch(ctx context.Context, txns []Transactio
   
   ### ⚠️ Note on Contributions
   
-  My professional development work at **IBM/Itaú** is conducted through a **GitHub Enterprise** account.  
-  The contributions shown here reflect my personal studies and **open-source projects**.
+  Until **March 1, 2026**, my professional development work at **IBM/Itaú** was conducted through a **GitHub Enterprise** account.  
+  The contributions shown here reflect my personal studies and **open-source projects** during and after that period.
   
   ---
   
@@ -376,10 +376,10 @@ func (s *TransactionService) ProcessBatch(ctx context.Context, txns []Transactio
   
   ## 👨‍💻 Sobre Mim
   
-  🚀 **Engenheiro de Software & Arquiteto de Soluções** na **IBM**, especializado em **Arquitetura Cloud-Native** e **Modernização de Sistemas Enterprise**  
+  🚀 **Engenheiro de Software & Arquiteto de Soluções**, especializado em **Arquitetura Cloud-Native** e **Modernização de Sistemas Enterprise**  
   💼 **Engenheiro Poliglota** construindo **sistemas de alta performance** com **Go**, **Java** e **Kotlin**  
   🏗️ **Arquiteto de Soluções** projetando **arquiteturas escaláveis** para aplicações bancárias críticas  
-  🏦 Liderando iniciativas de **migração Mainframe-para-AWS** para o **Core Bancário do Itaú**  
+  🏦 Ex-engenheiro de **migração Mainframe-para-AWS** para o **Core Bancário do Itaú**  
   ☕ Especialista no **ecossistema Java** (Spring Boot, Micronaut) e **Kotlin** para aplicações JVM  
   🦀 Apaixonado por **Go**, **Rust**, **Database Internals** e **System Design**  
   📍 Localizado em **Santa Catarina, Brasil**
@@ -414,6 +414,11 @@ func (s *TransactionService) ProcessBatch(ctx context.Context, txns []Transactio
   - ⚡ **APIs de Alta Performance**: REST e GraphQL de baixa latência
   - 🔄 **Padrões de Concorrência**: Goroutines, channels
   - 📦 **Microsserviços**: Serviços distribuídos com gRPC
+  
+  ## ⚠️ Nota sobre Contribuições
+  
+  Até **1º de março de 2026**, meu trabalho profissional de desenvolvimento na **IBM/Itaú** foi realizado através de uma conta **GitHub Enterprise**.  
+  As contribuições mostradas aqui refletem meus estudos pessoais e **projetos open-source** durante e após esse período.
   
   </details>
   
