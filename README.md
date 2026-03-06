@@ -86,9 +86,6 @@
     <td width="50%">
       <h3 align="center">☕ Spring Boot REST API Template</h3>
       <div align="center">
-        <a href="https://github.com/ElioNeto/java-spring-rest-api-template" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElioNeto&repo=java-spring-rest-api-template&theme=tokyonight&cache_seconds=1800" alt="Spring Boot Template" />
-        </a>
         <p>
           <strong>Java • Spring Boot • PostgreSQL • SOLID</strong><br>
           Production-ready REST API with MapStruct, OpenAPI docs, Docker, and Clean Architecture
@@ -101,9 +98,6 @@
     <td width="50%">
       <h3 align="center">🚀 Go GraphQL Boilerplate</h3>
       <div align="center">
-        <a href="https://github.com/ElioNeto/go-graphql-api-boilerplate" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElioNeto&repo=go-graphql-api-boilerplate&theme=tokyonight&cache_seconds=1800" alt="Go GraphQL" />
-        </a>
         <p>
           <strong>Go • GraphQL • gqlgen • SOLID</strong><br>
           Production-ready GraphQL API with PostgreSQL, JWT auth and Clean Architecture principles
@@ -118,9 +112,6 @@
     <td width="50%">
       <h3 align="center">🏦 Mainframe to Cloud Migration</h3>
       <div align="center">
-        <a href="https://github.com/ElioNeto/mainframe-to-cloud-migration" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElioNeto&repo=mainframe-to-cloud-migration&theme=tokyonight&cache_seconds=1800" alt="Mainframe Migration" />
-        </a>
         <p>
           <strong>Go • AWS • Microservices • Architecture</strong><br>
           Enterprise documentation of IBM Z Mainframe modernization with Go microservices
@@ -133,9 +124,6 @@
     <td width="50%">
       <h3 align="center">🗄️ ApexStore</h3>
       <div align="center">
-        <a href="https://github.com/ElioNeto/ApexStore" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElioNeto&repo=ApexStore&theme=tokyonight&cache_seconds=1800" alt="ApexStore" />
-        </a>
         <p>
           <strong>Rust • Database Internals • LSM-Tree</strong><br>
           High-performance Key-Value Store using LSM-Tree architecture with WAL and SSTables
