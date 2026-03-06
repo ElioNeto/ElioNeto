@@ -414,6 +414,4 @@ func (s *TransactionService) ProcessBatch(ctx context.Context, txns []Transactio
   
   <sub>💡 **Open to new opportunities in Go, Java, Kotlin, Cloud Architecture, and System Design!**</sub>
   
-  ![Snake animation](https://raw.githubusercontent.com/ElioNeto/ElioNeto/output/github-contribution-grid-snake-dark.svg)
-  
 </div>
