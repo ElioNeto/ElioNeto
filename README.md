@@ -134,13 +134,13 @@
       <h3 align="center">🗄️ ApexStore</h3>
       <div align="center">
         <a href="https://github.com/ElioNeto/ApexStore" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElioNeto&repo=lsm-kv-store&theme=tokyonight" alt="ApexStore" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElioNeto&repo=ApexStore&theme=tokyonight" alt="ApexStore" />
         </a>
         <p>
           <strong>Rust • Database Internals • LSM-Tree</strong><br>
           High-performance Key-Value Store using LSM-Tree architecture with WAL and SSTables
         </p>
-        <a href="https://github.com/ElioNeto/lsm-kv-store" target="_blank">
+        <a href="https://github.com/ElioNeto/ApexStore" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
         </a>
       </div>
