@@ -20,13 +20,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer & Solutions Architect** at **IBM**, specializing in **Cloud-Native Architecture** and **Enterprise System Modernization**. I design and build high-performance, distributed systems for critical banking infrastructure — including **Itaú's Core Banking** migration from IBM Z Mainframe to AWS.
+Software Engineer & Solutions Architect with experience at **IBM**, where I worked on **Cloud-Native Architecture** and **Enterprise System Modernization** — including **Itaú's Core Banking** migration from IBM Z Mainframe to AWS. Currently building and shipping new things.
 
-- 🏗️ Architecting polyglot microservices with **Go**, **Java**, and **Kotlin** at scale
-- 🏦 Led Mainframe-to-Cloud migration handling **5M+ daily transactions** and **15,000 TPS**
+- 🏗️ Designed polyglot microservices with **Go**, **Java**, and **Kotlin** at scale
+- 🏦 Mainframe-to-Cloud migration handling **5M+ daily transactions** and **15,000 TPS**
 - ⚡ Reduced system latency from **850ms → 120ms** through Go & JVM optimizations
 - 💰 Achieved **67% cost reduction** via efficient distributed service design
-- 🦀 Passionate about **Rust**, **Database Internals**, and **System Design**
+- 🦀 Passionate about **Rust**, **Database Internals**, **System Design**, and **AI tooling**
 - 📍 Santa Catarina, Brazil
 
 > **Note:** Until March 2026, professional work at IBM/Itaú was done via a GitHub Enterprise account. Contributions here reflect personal projects and open-source work.
@@ -41,6 +41,7 @@ I'm a **Software Engineer & Solutions Architect** at **IBM**, specializing in **
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
@@ -48,7 +49,6 @@ I'm a **Software Engineer & Solutions Architect** at **IBM**, specializing in **
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Micronaut](https://img.shields.io/badge/Micronaut-003545?style=for-the-badge&logo=micronaut&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white)
 ![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
@@ -81,25 +81,25 @@ I'm a **Software Engineer & Solutions Architect** at **IBM**, specializing in **
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">☕ Spring Boot REST API Template</h3>
+      <h3 align="center">🗄️ ApexStore</h3>
       <p align="center">
-        <strong>Java · Spring Boot · PostgreSQL · SOLID</strong><br/>
-        Production-ready REST API with Clean Architecture, MapStruct, OpenAPI docs, Docker, and full test coverage
+        <strong>Rust · LSM-Tree · Storage Engine</strong><br/>
+        High-performance embedded Key-Value Store built from scratch with DashMap MemTable, SSTable auto-repair, WAL, and TLS support. Designed to outperform SQLite in write-heavy workloads.
       </p>
       <p align="center">
-        <a href="https://github.com/ElioNeto/java-spring-rest-api-template">
+        <a href="https://github.com/ElioNeto/ApexStore">
           <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🚀 Go GraphQL Boilerplate</h3>
+      <h3 align="center">⚡ Vyx Framework</h3>
       <p align="center">
-        <strong>Go · GraphQL · gqlgen · SOLID</strong><br/>
-        Production-ready GraphQL API with PostgreSQL, JWT auth, and Clean Architecture principles
+        <strong>Go · IPC · Apache Arrow · Full-Stack</strong><br/>
+        Polyglot full-stack framework with a Go Core Orchestrator, annotation-based routing, and inter-process communication via Unix Domain Sockets + Apache Arrow.
       </p>
       <p align="center">
-        <a href="https://github.com/ElioNeto/go-graphql-api-boilerplate">
+        <a href="https://github.com/ElioNeto/vyx">
           <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -109,8 +109,8 @@ I'm a **Software Engineer & Solutions Architect** at **IBM**, specializing in **
     <td width="50%">
       <h3 align="center">🏦 Mainframe to Cloud Migration</h3>
       <p align="center">
-        <strong>Go · AWS · Microservices · Architecture</strong><br/>
-        Enterprise documentation of IBM Z Mainframe modernization — 5M daily txns, 15K TPS
+        <strong>Go · AWS · COBOL · Microservices</strong><br/>
+        Enterprise documentation of IBM Z Mainframe modernization to cloud-native architecture — 5M daily txns, 15K TPS, Go + Java microservices.
       </p>
       <p align="center">
         <a href="https://github.com/ElioNeto/mainframe-to-cloud-migration">
@@ -119,13 +119,68 @@ I'm a **Software Engineer & Solutions Architect** at **IBM**, specializing in **
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🗄️ ApexStore</h3>
+      <h3 align="center">🌐 Open Finance Pix API</h3>
       <p align="center">
-        <strong>Rust · Database Internals · LSM-Tree</strong><br/>
-        High-performance Key-Value Store built from scratch with WAL, SSTables, and LSM-Tree architecture
+        <strong>Java 17 · Spring Boot · Kafka · JWT</strong><br/>
+        REST API simulating Open Finance Brazil (Phase 3) Pix payment initiation standards, with Kafka event streaming and Docker.
       </p>
       <p align="center">
-        <a href="https://github.com/ElioNeto/ApexStore">
+        <a href="https://github.com/ElioNeto/java-open-finance-pix-api">
+          <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">☀️ AWS Serverless Template</h3>
+      <p align="center">
+        <strong>Terraform · Lambda · DynamoDB · API Gateway</strong><br/>
+        Opinionated AWS Serverless boilerplate with modular Terraform, built for legacy system modernization. Production-ready IaC from day one.
+      </p>
+      <p align="center">
+        <a href="https://github.com/ElioNeto/aws-serverless-terraform-template">
+          <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🦀 Rust System Tools</h3>
+      <p align="center">
+        <strong>Rust · CLI · Systems Programming</strong><br/>
+        Collection of high-performance CLI tools: log analyzer, performance monitor, and process manager — built for developer productivity.
+      </p>
+      <p align="center">
+        <a href="https://github.com/ElioNeto/rust-system-tools">
+          <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚀 Go REST & GraphQL Boilerplates</h3>
+      <p align="center">
+        <strong>Go · chi / gqlgen · PostgreSQL · JWT</strong><br/>
+        Two production-ready Go API templates (REST + GraphQL) with SOLID principles, structured logging, and Docker. Great starting points for new services.
+      </p>
+      <p align="center">
+        <a href="https://github.com/ElioNeto/go-rest-api-boilerplate">
+          <img src="https://img.shields.io/badge/REST-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://github.com/ElioNeto/go-graphql-api-boilerplate">
+          <img src="https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📱 Android Webcam</h3>
+      <p align="center">
+        <strong>Kotlin · Jetpack Compose · Go</strong><br/>
+        Use your Android phone as a high-quality, low-latency webcam. Android app (Kotlin + Jetpack Compose) + desktop client (Go) connected over the local network.
+      </p>
+      <p align="center">
+        <a href="https://github.com/ElioNeto/android-webcam">
           <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -162,5 +217,5 @@ I'm a **Software Engineer & Solutions Architect** at **IBM**, specializing in **
 </div>
 
 <div align="center">
-  <sub>💡 Open to opportunities in Go, Java, Kotlin, Cloud Architecture & System Design</sub>
+  <sub>💡 Open to new opportunities in Go, Java, Kotlin, Cloud Architecture & System Design</sub>
 </div>
